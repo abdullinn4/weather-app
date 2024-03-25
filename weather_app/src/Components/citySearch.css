@@ -1,0 +1,13 @@
+.searchInput{
+    border: 0;
+    border-bottom: 2px solid gray;
+    outline: 0;
+    font-size: 1.3rem;
+    color: white;
+    background: transparent;
+}
+.searchInfo{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
